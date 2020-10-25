@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Wei Chang(昌维).
+
+If you want to know more about me, you can visit [http://changwei.me](http://changwei.me).
+
 <!--
 **cw1997/cw1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
