@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-My name is Wei Chang(昌维).
+<main style="float: left;">
+  <p>My name is Wei Chang(昌维).</p>
+  <p>If you want to know more about me, you can visit <a href="http://changwei.me" target="_blank">http://changwei.me</a> .</p>
+</main>
 
-If you want to know more about me, you can visit [http://changwei.me](http://changwei.me).
-
-<div style>
-  
+<div style="float: right;">
+<img src="https://github-readme-stats.vercel.app/api?username=cw1997&show_icons=true&count_private=true" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cw1997&layout=compact" />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cw1997&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cw1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cw1997/cw1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
