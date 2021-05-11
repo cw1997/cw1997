@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <main style="float: left;">
-  <p>My name is Wei Chang(昌维).</p>
+  <p>My name is Chang Wei (昌维).</p>
   <p>If you want to know more about me, you can visit <a href="http://changwei.me" target="_blank">http://changwei.me</a> .</p>
 </main>
 
