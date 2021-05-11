@@ -5,6 +5,8 @@
   <p>If you want to know more about me, you can visit <a href="http://changwei.me" target="_blank">http://changwei.me</a> .</p>
 </main>
 
+![](https://komarev.com/ghpvc/?username=cw1997)
+
 <img src="https://github-readme-stats.vercel.app/api?username=cw1997&show_icons=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cw1997&layout=compact" />
 
