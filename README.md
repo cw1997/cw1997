@@ -17,6 +17,40 @@
   </td>
 </tr>
 
+    mysql> SELECT * FROM `cw1997`.`user`;
+    +----+----------------+------------+-------------------------+
+    | id | truename       | birthday   | website                 |
+    +----+----------------+------------+-------------------------+
+    |  1 | 昌维 Chang Wei | 1997-10-06 | https://www.changwei.me |
+    +----+----------------+------------+-------------------------+
+    1 row in set (0.05 sec)
+
+    mysql> SELECT * FROM `cw1997`.`contact`;
+    +----+--------------+-------------------------------------------------+
+    | id | contact_key  | contact_value                                   |
+    +----+--------------+-------------------------------------------------+
+    |  1 | Email        | 867597730@qq.com                                |
+    |  2 | Email        | changwei1006@gmail.com                          |
+    |  3 | WeiChat      | changwei1006                                    |
+    |  4 | QQ           | 867597730                                       |
+    |  5 | ZhiHu        | https://www.zhihu.com/people/changwei1006/posts |
+    |  6 | Weibo        | https://weibo.com/changweicw                    |
+    |  7 | SegmentFault | https://segmentfault.com/u/changwei             |
+    |  8 | GitHub       | https://github.com/cw1997                       |
+    +----+--------------+-------------------------------------------------+
+    8 rows in set (0.07 sec)
+
+    mysql> SELECT * FROM `cw1997`.`experience`;
+    +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
+    | id | starting_date | ending_date | location                  | organization                                         | position                | nature                  |
+    +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
+    |  1 | 2020-10-01    | 2021-03-01  | Haidian District, Beijing | PingCAP                                              | Web Front-End Developer | Intern                  |
+    |  2 | 2018-09-01    | NULL        | Taipei, Taiwan            | National Taiwan University of Science and Technology | Electronic Engineering  | full-time undergraduate |
+    |  3 | 2015-09-01    | 2018-07-01  | Wuhan, Hubei              | Wuhan Institute of Shipbuilding Technology           | Soft Technology         | full-time college       |
+    +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
+    3 rows in set (0.10 sec)
+
+    mysql> 
 
 
 <!--
