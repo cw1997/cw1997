@@ -6,6 +6,9 @@
 </main>
 
 ![](https://komarev.com/ghpvc/?username=cw1997)
+![GitHub followers](https://img.shields.io/github/followers/cw1997)
+![GitHub User's stars](https://img.shields.io/github/stars/cw1997)
+![Twitter Follow](https://img.shields.io/twitter/follow/changwei1006)
 
 <table align="center">
 <tr>
