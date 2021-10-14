@@ -2,7 +2,7 @@
 
 <main style="float: left;">
   <p>My name is Chang Wei (昌维).</p>
-  <p>If you want to know more about me, you can visit <a href="https://changwei.me" target="_blank">https://changwei.me</a> .</p>
+  <p>If you want to get more information about me, you can visit <a href="https://changwei.me" target="_blank">https://changwei.me</a> .</p>
 </main>
 
 ![](https://komarev.com/ghpvc/?username=cw1997)
