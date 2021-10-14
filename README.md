@@ -47,8 +47,9 @@
     +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
     | id | starting_date | ending_date | location                  | organization                                         | position                | nature                  |
     +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
+    |  2 | 2021-09-01    | NULL        | Taipei, Taiwan            | National Taiwan University of Science and Technology | Electronic Engineering  | full-time master        |
     |  1 | 2020-10-01    | 2021-03-01  | Haidian District, Beijing | PingCAP                                              | Web Front-End Developer | Intern                  |
-    |  2 | 2018-09-01    | NULL        | Taipei, Taiwan            | National Taiwan University of Science and Technology | Electronic Engineering  | full-time undergraduate |
+    |  2 | 2018-09-01    | 2021-08-01  | Taipei, Taiwan            | National Taiwan University of Science and Technology | Electronic Engineering  | full-time undergraduate |
     |  3 | 2015-09-01    | 2018-07-01  | Wuhan, Hubei              | Wuhan Institute of Shipbuilding Technology           | Soft Technology         | full-time college       |
     +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
     3 rows in set (0.10 sec)
