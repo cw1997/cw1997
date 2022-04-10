@@ -34,7 +34,7 @@
     +----+--------------+-------------------------------------------------+
     |  1 | Email        | 867597730@qq.com                                |
     |  2 | Email        | changwei1006@gmail.com                          |
-    |  3 | WeiChat      | changwei1006                                    |
+    |  3 | WeChat       | changwei1006                                    |
     |  4 | QQ           | 867597730                                       |
     |  5 | ZhiHu        | https://www.zhihu.com/people/changwei1006/posts |
     |  6 | Weibo        | https://weibo.com/changweicw                    |
@@ -47,12 +47,12 @@
     +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
     | id | starting_date | ending_date | location                  | organization                                         | position                | nature                  |
     +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
-    |  2 | 2021-09-01    | NULL        | Taipei, Taiwan            | National Taiwan University of Science and Technology | Electronic Engineering  | full-time master        |
-    |  1 | 2020-10-01    | 2021-03-01  | Haidian District, Beijing | PingCAP                                              | Web Front-End Developer | Intern                  |
-    |  2 | 2018-09-01    | 2021-08-01  | Taipei, Taiwan            | National Taiwan University of Science and Technology | Electronic Engineering  | full-time undergraduate |
-    |  3 | 2015-09-01    | 2018-07-01  | Wuhan, Hubei              | Wuhan Institute of Shipbuilding Technology           | Soft Technology         | full-time college       |
+    |  1 | 2021-09-01    | NULL        | Taipei, Taiwan            | National Taiwan University of Science and Technology | Electronic Engineering  | full-time master        |
+    |  2 | 2020-10-01    | 2021-03-01  | Haidian District, Beijing | PingCAP                                              | Web Front-End Developer | Intern                  |
+    |  3 | 2018-09-01    | 2021-08-01  | Taipei, Taiwan            | National Taiwan University of Science and Technology | Electronic Engineering  | full-time undergraduate |
+    |  4 | 2015-09-01    | 2018-07-01  | Wuhan, Hubei              | Wuhan Institute of Shipbuilding Technology           | Soft Technology         | full-time college       |
     +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
-    3 rows in set (0.10 sec)
+    4 rows in set (0.10 sec)
 
     mysql> 
 
