@@ -32,16 +32,11 @@
     +----+--------------+-------------------------------------------------+
     | id | contact_key  | contact_value                                   |
     +----+--------------+-------------------------------------------------+
-    |  1 | Email        | 867597730@qq.com                                |
-    |  2 | Email        | changwei1006@gmail.com                          |
-    |  3 | WeChat       | changwei1006                                    |
-    |  4 | QQ           | 867597730                                       |
-    |  5 | ZhiHu        | https://www.zhihu.com/people/changwei1006/posts |
-    |  6 | Weibo        | https://weibo.com/changweicw                    |
-    |  7 | SegmentFault | https://segmentfault.com/u/changwei             |
-    |  8 | GitHub       | https://github.com/cw1997                       |
+    |  1 | ZhiHu        | https://www.zhihu.com/people/changwei1006/posts |
+    |  2 | Weibo        | https://weibo.com/changweicw                    |
+    |  3 | SegmentFault | https://segmentfault.com/u/changwei             |
     +----+--------------+-------------------------------------------------+
-    8 rows in set (0.07 sec)
+    3 rows in set (0.07 sec)
 
     mysql> SELECT * FROM `cw1997`.`experience`;
     +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
