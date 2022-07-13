@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<main style="float: left;">
-  <p>My name is Chang Wei (昌维).</p>
-  <p>If you want to get more information about me, you can visit <a href="https://changwei.me" target="_blank">https://changwei.me</a> .</p>
-</main>
+👋 My name is <strong>Chang Wei (昌维, 昌維)</strong>. You can visit <a href="https://changwei.me" target="_blank">https://changwei.me</a> for more information about me.
 
 ![](https://komarev.com/ghpvc/?username=cw1997)
 ![GitHub followers](https://img.shields.io/github/followers/cw1997?style=social)
