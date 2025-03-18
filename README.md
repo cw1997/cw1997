@@ -1,4 +1,4 @@
-👋 My name is <strong>Chang Wei (昌维, 昌維)</strong>. You can visit <a href="https://changwei.me" target="_blank">https://changwei.me</a> for more information about me.
+👋 My name is <strong>Chang Wei (昌维, 昌維)</strong>. You can visit <a href="https://www.changwei.me" target="_blank">https://www.changwei.me</a> for more information about me.
 
 ![](https://komarev.com/ghpvc/?username=cw1997)
 ![GitHub followers](https://img.shields.io/github/followers/cw1997?style=social)
@@ -37,8 +37,9 @@
     +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
     | id | starting_date | ending_date | location                  | organization                                         | position                | nature                  |
     +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
+    |  2 | 2024-05-01    | 2025-03-01  | Remote                    | RisingWave Labs                                      | Web Front-End Developer | Intern                  |
     |  1 | 2021-09-01    | NULL        | Taipei, Taiwan            | National Taiwan University of Science and Technology | Electronic Engineering  | full-time master        |
-    |  2 | 2020-10-01    | 2021-03-01  | Haidian District, Beijing | PingCAP                                              | Web Front-End Developer | Intern                  |
+    |  2 | 2020-10-01    | 2024-04-01  | Haidian District, Beijing | PingCAP                                              | Web Front-End Developer | Intern                  |
     |  3 | 2018-09-01    | 2021-08-01  | Taipei, Taiwan            | National Taiwan University of Science and Technology | Electronic Engineering  | full-time undergraduate |
     |  4 | 2015-09-01    | 2018-07-01  | Wuhan, Hubei              | Wuhan Institute of Shipbuilding Technology           | Soft Technology         | full-time college       |
     +----+---------------+-------------+---------------------------+------------------------------------------------------+-------------------------+-------------------------+
