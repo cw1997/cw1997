@@ -30,6 +30,7 @@
     |  1 | ZhiHu        | https://www.zhihu.com/people/changwei1006/posts |
     |  2 | Weibo        | https://weibo.com/changweicw                    |
     |  3 | SegmentFault | https://segmentfault.com/u/changwei             |
+    |  3 | ORCID        | https://orcid.org/0009-0008-5515-2905           |
     +----+--------------+-------------------------------------------------+
     3 rows in set (0.07 sec)
 
