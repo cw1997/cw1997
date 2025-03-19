@@ -1,4 +1,6 @@
 👋 My name is <strong>Chang Wei (昌维, 昌維)</strong>. You can visit <a href="https://www.changwei.me" target="_blank">https://www.changwei.me</a> for more information about me.
+You could download my resume in PDF file at here [https://github.com/cw1997/resume/releases/tag/latest](https://github.com/cw1997/resume/releases/tag/latest),
+it was built with LaTeX and the source code at here [https://github.com/cw1997/resume](https://github.com/cw1997/resume)
 
 ![](https://komarev.com/ghpvc/?username=cw1997)
 ![GitHub followers](https://img.shields.io/github/followers/cw1997?style=social)
