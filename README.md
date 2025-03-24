@@ -1,6 +1,6 @@
-👋 My name is <strong>Chang Wei (昌维, 昌維)</strong>. You can visit <a href="https://www.changwei.me" target="_blank">https://www.changwei.me</a> for more information about me.
+👋 My name is <strong>Chang Wei (昌维, 昌維)</strong>. For more information about me, you could visit <a href="https://www.changwei.me" target="_blank">https://www.changwei.me</a> .
 
-You could **download my resume** in *PDF file* at here [https://github.com/cw1997/resume/releases/tag/latest](https://github.com/cw1997/resume/releases/tag/latest),
+You could **download my resume** in [PDF file](https://github.com/cw1997/resume/releases/download/latest/resume-wei_chang.pdf) at here [https://github.com/cw1997/resume/releases/tag/latest](https://github.com/cw1997/resume/releases/tag/latest),
 it was built with xeLaTeX and the source code at here [https://github.com/cw1997/resume](https://github.com/cw1997/resume)
 
 ![](https://komarev.com/ghpvc/?username=cw1997)
