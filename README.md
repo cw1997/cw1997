@@ -8,7 +8,7 @@ it was built with xeLaTeX and the source code at here [https://github.com/cw1997
 ![GitHub User's stars](https://img.shields.io/github/stars/cw1997?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/changwei1006?style=social)
 
-<table align="center">
+<!-- <table align="center">
 <tr>
   <td>
     <img src="https://github-readme-stats.vercel.app/api?username=cw1997&show_icons=true&count_private=true" />
@@ -16,7 +16,7 @@ it was built with xeLaTeX and the source code at here [https://github.com/cw1997
   <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cw1997&layout=compact" />
   </td>
-</tr>
+</tr> -->
 
     cw1997=# SELECT * FROM "user";
      id | truename       | birthday   | website                
