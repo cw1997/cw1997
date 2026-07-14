@@ -34,14 +34,14 @@ it was built with xeLaTeX and the source code at here [https://github.com/cw1997
     (4 rows)
 
     cw1997=# SELECT * FROM experience;
-     id | start_date | end_date   | location                  | organization                                         | position                            | nature                           
-    ----+------------+------------+---------------------------+------------------------------------------------------+-------------------------------------+----------------------------------
-      1 | 2025-09-01 |            | Taipei, Taiwan            | National Taiwan Normal University                    | Adult and Continuing Education      | Full-time Ph.D. student          
-      2 | 2021-09-01 | 2025-08-01 | Taipei, Taiwan            | National Taiwan University of Science and Technology | Electrical and Computer Engineering | Full-time Master's Degree Student
-      3 | 2024-05-01 | 2025-03-01 | Remote                    | RisingWave Labs                                      | Web Front-End Developer             | Intern                           
-      4 | 2020-10-01 | 2024-04-01 | Haidian District, Beijing | PingCAP                                              | Web Front-End Developer             | Intern                           
-      5 | 2018-09-01 | 2021-08-01 | Taipei, Taiwan            | National Taiwan University of Science and Technology | Electrical and Computer Engineering | Full-time undergraduate Student  
-      6 | 2015-09-01 | 2018-07-01 | Wuhan, Hubei              | Wuhan Institute of Shipbuilding Technology           | Software Technology                 | Full-time college Student        
+     id | start_date | end_date   | location       | organization                                         | position                            | nature                           
+    ----+------------+------------+----------------+------------------------------------------------------+-------------------------------------+----------------------------------
+      1 | 2025-09-01 |            | Taipei, Taiwan | National Taiwan Normal University                    | Adult and Continuing Education      | Full-time Ph.D. student          
+      2 | 2021-09-01 | 2025-08-01 | Taipei, Taiwan | National Taiwan University of Science and Technology | Electrical and Computer Engineering | Full-time Master's Degree Student
+      3 | 2024-05-01 | 2025-03-01 | Remote         | RisingWave Labs                                      | Web Front-End Developer             | Intern                           
+      4 | 2020-10-01 | 2024-04-01 | Beijing        | PingCAP                                              | Web Front-End Developer             | Intern                           
+      5 | 2018-09-01 | 2021-08-01 | Taipei, Taiwan | National Taiwan University of Science and Technology | Electrical and Computer Engineering | Full-time undergraduate Student  
+      6 | 2015-09-01 | 2018-07-01 | Wuhan, Hubei   | Wuhan Institute of Shipbuilding Technology           | Software Technology                 | Full-time college Student        
     (6 rows)
 
     cw1997=#
